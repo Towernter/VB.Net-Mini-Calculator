@@ -1,0 +1,9 @@
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\bin\Debug\mini calculator.exe
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\bin\Debug\mini calculator.pdb
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\bin\Debug\mini calculator.xml
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\mini calculator.vbproj.GenerateResource.Cache
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\mini calculator.exe
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\mini calculator.xml
+C:\Users\TOWERNTER\Documents\Visual Studio 2012\Projects\mini calculator\mini calculator\obj\Debug\mini calculator.pdb
